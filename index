@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>Каталог</title></head>
+<body>
+  <h1>Добре дошли в нашия каталог</h1>
+  <img src="product1.jpg" alt="Продукт" width="400">
+  <p><a href="brochure.pdf" target="_blank">Изтеглете PDF каталог</a></p>
+</body>
+</html>
